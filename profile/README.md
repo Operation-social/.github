@@ -1,6 +1,6 @@
 # OPERATION SOCIAL
 
-Create your own social media to connect people and businesses.
+Create your own social media platform to connect people and businesses.
 
 
 ![error](https://gdinfosolution.com/wp-content/uploads/2020/05/technology.gif)
